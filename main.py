@@ -7,3 +7,4 @@ if word in meme_dict.keys():
     print(meme_dict[word])
 else:
     print("Kata tidak ada")
+#ini hasil edittan aku
